@@ -21,8 +21,6 @@
 - **CHECK** - Add a README file
 - **CHECK** - Add .gitignore 
 - **Select .gitignore Template:** Terraform
-- **CHECK** - Choose a license
-- **Select License:** Apache 2.0 License
 - Click on **Create repository**
 
 ## Step-03: Review .gitignore created for Terraform
